@@ -30,7 +30,7 @@ import oasisinfobyte from "./company/oasisinfobyte.jpg";
 import blog from "./blog.png";
 import nexora from "./nexora.png";
 import ecommerce from "./ecommerce.png";
-import rishabhSoftware from "./company/rishabhSoftware.jpg";  
+import rishabhSoftware from "./company/rishabhsoftware.jpg";  
 import munimlogo from "./company/munimsite-logo.png"; 
 import bootstrap from "./tech/bootstrap-logo.png"
 
