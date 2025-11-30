@@ -7,7 +7,7 @@ import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 import { styles } from "../styles";
 
-import resumePDF from "../assets/resume.pdf";
+import resumePDF from "../assets/Harshil_Patel_CV.pdf";
 
 const Contact = () => {
   const formRef = useRef();

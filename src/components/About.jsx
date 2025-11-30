@@ -53,7 +53,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-6 text-gray-300 text-[15px] sm:text-[17px] leading-7 max-w-3xl text-center mx-auto"
       >
-        I’m a Software Engineer with 1+ years of experience specializing in React.js and modern JavaScript. I build responsive, scalable, and user-friendly web applications using React.js, Next.js, and Vite. I also have basic experience with Node.js and Express.js, enabling me to work across both frontend and backend tasks. I enjoy creating clean, efficient, and practical solutions that solve real-world problems.
+        Software Engineer with 1+ years of experience specializing in React.js and JavaScript (ES6+). Skilled in building responsive, scalable, and user-focused web applications using React.js, Next.js, and Vite. Experienced with Node.js, Express.js, REST APIs, Git, and modern UI frameworks. Strong ability to develop clean, maintainable code and solve complex technical problems. Able to contribute effectively across the full development lifecycle, collaborate with teams, and deliver high-quality software solutions that support business goals. Dedicated to continuous learning and modern web technology improvements.
       </motion.p>
 
       {/* Service Cards */}
